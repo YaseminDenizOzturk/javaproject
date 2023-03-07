@@ -3,7 +3,7 @@ public class test {
         
         // Account account1 = new Account();
          
-         account account2 = new account("12121212",3000.0,"yasemin","yasemin@hotmail.com","1212");
+         account account2 = new account("12121212",3000.0,"deniz","yasemin@hotmail.com","1212");
          
         // account2.paraYatir(500);
          
